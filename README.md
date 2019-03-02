@@ -1,2 +1,2 @@
-# ResponsiveDesign
-Portafolio con HTML, CSS y Javascript
+# desarrollo-web-portafolio
+Proyecto realizado 
